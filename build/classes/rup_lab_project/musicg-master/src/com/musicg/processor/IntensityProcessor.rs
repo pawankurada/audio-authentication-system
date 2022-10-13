@@ -1,0 +1,1 @@
+com.musicg.processor.IntensityProcessor

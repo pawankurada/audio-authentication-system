@@ -1,0 +1,1 @@
+com.musicg.serialization.ObjectSerializer
